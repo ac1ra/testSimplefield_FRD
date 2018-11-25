@@ -4,6 +4,6 @@
 
 Firebase Realtime Database Tutorial for Swift using Xcode from Simplefield iOS.
 
-Some codes was updated.
+Some codes were updated.
 
 Link: https://www.simplifiedios.net/firebase-realtime-database-tutorial/
