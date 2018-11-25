@@ -1,0 +1,6 @@
+framework module Pods_testSimplefield_FRD {
+  umbrella header "Pods-testSimplefield_FRD-umbrella.h"
+
+  export *
+  module * { export * }
+}
